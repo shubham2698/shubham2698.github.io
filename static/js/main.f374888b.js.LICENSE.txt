@@ -1,10 +1,4 @@
 /*
-  object-assign
-  (c) Sindre Sorhus
-  @license MIT
-  */
-
-/*
 object-assign
 (c) Sindre Sorhus
 @license MIT
@@ -40,8 +34,6 @@ object-assign
  *
  * Date: 2022-08-26T17:52Z
  */
-
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
  * @license React
